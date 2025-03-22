@@ -1,41 +1,78 @@
-Setup Instructions for Project Initialization
-1. Clone the Repository
-Open Visual Studio.
+# Setup Instructions for Project Initialization
 
-Navigate to File > Clone Repository.
+## 1. Clone the Repository
 
-Enter the repository URL and click Clone.
+- Open **Visual Studio**.
+- Navigate to `File > Clone Repository`.
+- Enter the repository URL and click **Clone**.
 
-2. Add a New Database Connection
-In Visual Studio, click on the View menu at the top.
+## 2. Add a New Database Connection
 
-Select Server Explorer.
+- In Visual Studio, click on the **View** menu at the top.
+- Select **Server Explorer**.
+- In **Server Explorer**, right-click on **Data Connections** and select **Add Connection**.
+- Choose your database server type (e.g., SQL Server) and enter the details of your database server.
+- Click **OK** to establish the connection.
 
-In Server Explorer, right-click on Data Connections and select Add Connection.
+## 3. Update SQL Connection in the Code
 
-Choose your database server type (e.g., SQL Server) and enter the details of your database server.
+- In **Solution Explorer**, open each `.cs` file in the project.
+- Locate the **SQL connection string** in the code (usually within `App.config`, `Web.config`, or directly in the `.cs` files).
+- Update the connection string to point to the newly created database (the one you just connected to in Server Explorer).
+- Save all `.cs` files after making the changes.
 
-Click OK to establish the connection.
+## 4. Add SQL Query to the Project
 
-3. Update SQL Connection in the Code
-In Solution Explorer, open each .cs file in the project.
+- In **Server Explorer**, locate the **SQL Query** that needs to be executed.
+- Drag the **SQL Query** from **Server Explorer** and drop it into the **work panel**.
+- Review the SQL code to ensure it's correct and ready to be run.
+- Right-click on the SQL Query and select **Execute** to run it.
 
-Locate the SQL connection string in the code (usually within App.config, Web.config, or directly in the .cs files).
+## 5. Run the Project
 
-Update the connection string to point to the newly created database (the one you just connected to in Server Explorer).
+- After the database has been initialized, click on **Start** in Visual Studio (or press `F5`) to run the project.
+- The application should now be connected to the initialized database and ready to use.
 
-Save all .cs files after making the changes.
+---
 
-4. Add SQL Query to the Project
-In Server Explorer, locate the SQL Query that needs to be executed.
+## My Tech Stack
 
-Drag the SQL Query from Server Explorer and drop it into the work panel.
+### 💻 Programming Languages:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-Review the SQL code to ensure it's correct and ready to be run.
+### 🌐 Frontend & Frameworks:
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-Right-click on the SQL Query and select Execute to run it.
+### 🛢 Databases:
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-5. Run the Project
-After the database has been initialized, click on Start in Visual Studio (or press F5) to run the project.
+### ⚙️ Version Control:
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-The application should now be connected to the initialized database and ready to use.
+### 🔧 Development Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+
+---
+
+## 🤝 Connect with Me
+
+- [Website](https://codesbynewton.com/)
+- [LinkedIn](https://www.linkedin.com/in/newton-maina-gatiba/)
+- [Instagram](https://www.instagram.com/deceptive_j.i.n.g.e.r/)
+- [Email](mailto:newtonmainag@gmail.com)
+
+⭐️ From [Newton-Maina](https://github.com/Newton-Maina)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newton-Maina&theme=buefy&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Maina&theme=buefy&layout=compact)
