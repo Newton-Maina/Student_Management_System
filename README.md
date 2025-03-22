@@ -23,8 +23,8 @@
 
 ## 4. Add SQL Query to the Project
 
-- In **Server Explorer**, locate the **SQL Query** that needs to be executed.
-- Drag the **SQL Query** from **Server Explorer** and drop it into the **work panel**.
+- In **Server Explorer/ The cloned files**, locate the **SQL Query** that needs to be executed.
+- Drag the **SQL Query** from **Server Explorer / cloned files** and drop it into the **work panel**.
 - Review the SQL code to ensure it's correct and ready to be run.
 - Right-click on the SQL Query and select **Execute** to run it.
 
