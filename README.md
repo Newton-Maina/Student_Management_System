@@ -35,34 +35,6 @@
 
 ---
 
-## My Tech Stack
-
-### 💻 Programming Languages:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-### 🌐 Frontend & Frameworks:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-### 🛢 Databases:
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-### ⚙️ Version Control:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-### 🔧 Development Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
-
----
-
 ## 🤝 Connect with Me
 
 - [Website](https://codesbynewton.com/)
@@ -73,6 +45,3 @@
 ⭐️ From [Newton-Maina](https://github.com/Newton-Maina)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newton-Maina&theme=buefy&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Maina&theme=buefy&layout=compact)
