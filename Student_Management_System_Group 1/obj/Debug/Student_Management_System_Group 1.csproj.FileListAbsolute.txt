@@ -1,0 +1,83 @@
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Student_Management_System_Group 1.exe.config
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Student_Management_System_Group 1.exe
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Student_Management_System_Group 1.pdb
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Npgsql.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Buffers.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Memory.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.Permissions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Text.Json.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.ValueTuple.dll
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Npgsql.pdb
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\Npgsql.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Buffers.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Memory.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.Permissions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Text.Json.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\bin\Debug\System.ValueTuple.xml
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group 1.csproj.AssemblyReference.cache
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.AddCoursesForm.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.AddStudentsForm.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.DashboardForm.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.Loader_Form.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.LoginForm.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.MainForm.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group_1.Properties.Resources.resources
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group 1.csproj.GenerateResource.cache
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group 1.csproj.CoreCompileInputs.cache
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_.1CA40119.Up2Date
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group 1.exe
+C:\Users\maina newton\source\repos\Student_Management_System_Group 1\Student_Management_System_Group 1\obj\Debug\Student_Management_System_Group 1.pdb
