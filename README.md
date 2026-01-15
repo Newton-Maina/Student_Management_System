@@ -1,47 +1,74 @@
-# Setup Instructions for Project Initialization
+# Student Management System
 
-## 1. Clone the Repository
+A Windows Forms (WinForms) application developed in C# for managing student records, course information, and administrative tasks.
 
-- Open **Visual Studio**.
-- Navigate to `File > Clone Repository`.
-- Enter the repository URL and click **Clone**.
+## 📋 Features
 
-## 2. Add a New Database Connection
+-   **Authentication System**: Secure login for administrators.
+-   **Dashboard**: Real-time overview of total enrolled students, available courses, and graduated students.
+-   **Student Management**: 
+    -   Register new students with details (Name, Gender, Address, Grade, Photo).
+    -   Update existing student records.
+    -   Manage student status (Enrolled, Inactive, Graduated).
+-   **Course Management**: Add and manage available courses.
 
-- In Visual Studio, click on the **View** menu at the top.
-- Select **Server Explorer**.
-- In **Server Explorer**, right-click on **Data Connections** and select **Add Connection**.
-- Choose your database server type (e.g., SQL Server) and enter the details of your database server.
-- Click **OK** to establish the connection.
+## 🛠 Tech Stack
 
-## 3. Update SQL Connection in the Code
+-   **Language**: C#
+-   **Framework**: .NET Framework 4.7.2
+-   **UI**: Windows Forms (WinForms)
+-   **Database**: Microsoft SQL Server (LocalDB) / `.mdf` file
+-   **Data Access**: System.Data.SqlClient (ADO.NET)
 
-- In **Solution Explorer**, open each `.cs` file in the project.
-- Locate the **SQL connection string** in the code (usually within `App.config`, `Web.config`, or directly in the `.cs` files).
-- Update the connection string to point to the newly created database (the one you just connected to in Server Explorer).
-- Save all `.cs` files after making the changes.
+## ⚙️ Prerequisites
 
-## 4. Add SQL Query to the Project
+-   Visual Studio 2019 or later.
+-   .NET Framework 4.7.2 SDK.
+-   SQL Server / LocalDB installed (usually comes with Visual Studio).
 
-- In **Server Explorer/ The cloned files**, locate the **SQL Query** that needs to be executed.
-- Drag the **SQL Query** from **Server Explorer / cloned files** and drop it into the **work panel**.
-- Review the SQL code to ensure it's correct and ready to be run.
-- Right-click on the SQL Query and select **Execute** to run it.
+## 🚀 Setup & Installation
 
-## 5. Run the Project
+### 1. Clone the Repository
+```bash
+git clone <repository-url>
+```
 
-- After the database has been initialized, click on **Start** in Visual Studio (or press `F5`) to run the project.
-- The application should now be connected to the initialized database and ready to use.
+### 2. Database Setup
+1.  Open the solution file `Student_Management_System_Group 1.sln` in Visual Studio.
+2.  Locate the `SQLQuery.sql` file in the solution explorer.
+3.  Execute the script in your local SQL Server instance to create the necessary tables (`users`, `students`, `courses`) and insert the default admin user.
+    -   *Note: Ensure you are connected to the correct database instance where you want the tables created.*
 
----
+### 3. ⚠️ CRITICAL: Update Connection Strings
+The application currently uses **hardcoded connection strings** pointing to a specific user's directory. You **must** update these paths to run the application on your machine.
 
-## 🤝 Connect with Me
+Open the following files and replace the path `C:\Users\maina newton\OneDrive\Documents\db_student_data.mdf` with the actual path to your database file (or use a standard LocalDB connection string):
 
-- [Website](https://codesbynewton.com/)
-- [LinkedIn](https://www.linkedin.com/in/newton-maina-gatiba/)
-- [Instagram](https://www.instagram.com/deceptive_j.i.n.g.e.r/)
-- [Email](mailto:newtonmainag@gmail.com)
+-   `Student_Management_System_Group 1/LoginForm.cs`
+-   `Student_Management_System_Group 1/DashboardForm.cs`
+-   `Student_Management_System_Group 1/AddStudentsForm.cs`
+-   `Student_Management_System_Group 1/AddStudentData.cs`
+-   `Student_Management_System_Group 1/AddCourseData.cs`
 
-⭐️ From [Newton-Maina](https://github.com/Newton-Maina)
+**Example of a generic LocalDB string:**
+```csharp
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\students_data.mdf;Integrated Security=True;Connect Timeout=30
+```
+*(Note: Using `|DataDirectory|` requires the `.mdf` file to be in the output directory, e.g., `bin/Debug`)*.
 
----
+### 4. Build and Run
+1.  Build the solution (Ctrl + Shift + B).
+2.  Press `F5` or click **Start** to run the application.
+
+## 👤 Usage
+
+**Default Admin Credentials:**
+-   **Username**: `admin`
+-   **Password**: `admin123`
+
+## 🤝 Contributors
+
+-   [Newton-Maina](https://github.com/Newton-Maina)
+
+## 📄 License
+This project is open-source.
